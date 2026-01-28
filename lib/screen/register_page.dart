@@ -68,14 +68,14 @@ class _RegisterPageState extends State<RegisterPage> {
                 onPressed: () {
                   if (_formKey.currentState!.validate()) {
                     ScaffoldMessenger.of(context).showSnackBar(
-                      SnackBar(content: Text('Pendaftaran Berhasil')),
+                      SnackBar(content: Text('Pendaftaran Sukses')),
                     );
                     Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(builder: (context) => HomePage()),
                     );
                   }
-                },
+                }, //
                 child: Text('Daftar Sekarang'),
               ),
             ],
