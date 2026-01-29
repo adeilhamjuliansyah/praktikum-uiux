@@ -18,27 +18,27 @@ List<Product> dummyProduct = [
     price: '20.000.000',
     image: 'assets/macbookpro.jpg',
     description:
-        'Dijual MacBook Pro Tahun 2025 dengan spesifikasi [Chip/Processor], RAM 20 GB, dan SSD 200 GB dalam kondisi mulus terawat serta fullset, siap pakai untuk menunjang produktivitas Anda',
+        'Monster produktivitas! MacBook Pro 2025 dengan performa chip terbaru. Sangat cocok untuk desainer dan developer yang butuh kecepatan tinggi tanpa kompromi.',
   ),
   Product(
     name: 'iPhone 15',
     price: '15.000.000',
     image: 'assets/iphone.jpg',
     description:
-        'Dijual satu paket lengkap berisi iPhone 15, Apple Watch, dan AirPods dalam kondisi mulus terawat dan semua fungsi berjalan normal siap pakai',
+        'Lupakan kamera biasa. iPhone 15 hadir dengan kualitas sinematik di saku Anda. Kondisi unit sangat istimewa, mulus luar dalam seperti baru keluar dari box.',
   ),
   Product(
     name: 'AppleWatch',
     price: '7.000.000',
     image: 'assets/rolex.jpg',
     description:
-        'Dijual Apple Watch original kondisi terawat dengan fungsi normal dan baterai awet siap pakai',
+        'Partner olahraga terbaik untuk gaya hidup sehat Anda. Sensor akurat, desain elegan, dan strap masih sangat bersih. Investasi tepat untuk pergelangan tangan Anda.',
   ),
   Product(
     name: 'AirPods',
     price: '3.500.000',
     image: 'assets/airpodspro.jpg',
     description:
-        'Dijual AirPods original dengan kualitas suara jernih dan koneksi lancar tanpa kendala.',
+        'Rasakan sensasi audio spasial yang imersif. Noise cancelling-nya masih bekerja sempurna, memblokir suara bising sekitar agar Anda fokus pada musik favorit.',
   ),
 ];
